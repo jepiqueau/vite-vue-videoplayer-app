@@ -1,0 +1,13 @@
+{
+  "appId": "com.jeep.app.vite.vue.videoplayer",
+  "appName": "vite-vue-videoplayer-app",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}
